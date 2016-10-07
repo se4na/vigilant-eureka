@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /index.html
+Disallow: /*/index.*
+
+User-agent: Megalodon
+Disallow: /
+
+Sitemap: https://xn--pckht2b9i.tk/sitemap.xml
